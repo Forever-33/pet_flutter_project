@@ -1,6 +1,6 @@
-<p>
-  <img src="/images_md/first.png" alt="first_screen" width="400" align="left">
-  <img src="/images_md/second.png" alt="second_screen" width="400" align="right">
+<p align="center">
+  <img src="/images_md/first.png" alt="first_screen" width="300">
+  <img src="/images_md/second.png" alt="second_screen" width="300">
 </p>
 
 
